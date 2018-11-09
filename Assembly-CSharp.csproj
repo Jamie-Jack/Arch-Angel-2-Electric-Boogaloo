@@ -56,6 +56,7 @@
      <Compile Include="Assets\Scripts\damage.cs" />
      <Compile Include="Assets\Scripts\EnemyMovement.cs" />
      <Compile Include="Assets\Scripts\health.cs" />
+     <Compile Include="Assets\Scripts\SceneSwitch.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
